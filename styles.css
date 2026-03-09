@@ -294,17 +294,17 @@
  }
 
  .people-image {
-    position: absolute;
-    left: -120px;   
-    top: -50px;
+    position: relative;
+    left: -170px;   
+    top: 40px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
  }
 
  .people-image img {
     width: 100%;
-    max-width: 560px;
+    max-width: 590px;
     height: auto;
-    max-height: 520px;   /* prevents it from growing too large */
+    max-height: 520px;   
     object-fit: cover;
     display: block;
  }
