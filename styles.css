@@ -294,15 +294,15 @@
  }
 
  .people-image {
-    position: relative;
-    left: -170px;   
-    top: 40px;
+    position: absolute;
+    left: -120px;   
+    top: -50px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
  }
 
  .people-image img {
     width: 100%;
-    max-width: 590px;
+    max-width: 630px;
     height: auto;
     max-height: 520px;   
     object-fit: cover;
